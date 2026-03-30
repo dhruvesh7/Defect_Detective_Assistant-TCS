@@ -3,7 +3,7 @@
 **Defect Detective Assistant** is a high-end RAG (Retrieval-Augmented Generation) assistant designed for **Discrete Manufacturing**. It investigates the root causes of production defects (like silver streaks, chatter marks, or porosity) and correlates them with process parameter deviations.
 
 ## Features
-- **Quantum Flow Engine**: A fully responsive, high-fidelity UI that works on both Desktop and Mobile.
+- **Defect Detective Assistant**: A fully responsive, high-fidelity UI that works on both Desktop and Mobile.
 - **RAG-Powered Diagnostics**: Utilizes LangChain, ChromaDB, and OpenAI to retrieve accurate engineering data.
 - **Cross-Vertical Knowledge Base**:
     - **Injection Molding**: Surface burns, short shots, sink marks.
