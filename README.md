@@ -1,6 +1,6 @@
-# PrecisionRoot GPT: Defect-to-Process-Parameter Root-Cause Investigator
+# Defect Detective Assistant - AI ROOT CAUSE INVESTIGATOR
 
-**PrecisionRoot GPT** is a high-end RAG (Retrieval-Augmented Generation) assistant designed for **Discrete Manufacturing**. It investigates the root causes of production defects (like silver streaks, chatter marks, or porosity) and correlates them with process parameter deviations.
+**Defect Detective Assistant** is a high-end RAG (Retrieval-Augmented Generation) assistant designed for **Discrete Manufacturing**. It investigates the root causes of production defects (like silver streaks, chatter marks, or porosity) and correlates them with process parameter deviations.
 
 ## Features
 - **Quantum Flow Engine**: A fully responsive, high-fidelity UI that works on both Desktop and Mobile.
@@ -17,7 +17,7 @@
 ## Project Structure
 - `app.py`: FastAPI backend and RAG logic.
 - `ingest.py`: Script to process and index the manufacturing knowledge base (`data/`).
-- `index.html`: Premium "Quantum Flow" dashboard (HTML/CSS/JS).
+- `index.html`: Premium "Defect Detective Assistant" dashboard (HTML/CSS/JS).
 - `data/`: Directory containing Markdown-based manufacturing SOPs and defect catalogs.
 - `vector_db/`: Persistent ChromaDB store.
 
